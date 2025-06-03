@@ -10,9 +10,9 @@ Lab04: Wine Quality
 
 Lab05: Gene Expression
 
-Lab06: Credit Card Fraud Detection
+Lab06: Credit Card Fraud
 
-Lab07: Airline Tweets Sentiment Analysis
+Lab07: Airline Tweets Sentiment
 
 Lab08:
 
