@@ -12,7 +12,7 @@ Lab05: Gene Expression
 
 Lab06: Credit Card Fraud Detection
 
-Lab07:
+Lab07: Airline Tweets Sentiment Analysis
 
 Lab08:
 
