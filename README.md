@@ -14,7 +14,7 @@ Lab06: Credit Card Fraud
 
 Lab07: Airline Tweets Sentiment
 
-Lab08:
+Lab08: Baseball Swing Probability
 
 Lab09:
 
