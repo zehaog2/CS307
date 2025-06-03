@@ -10,7 +10,7 @@ Lab04: Wine Quality
 
 Lab05: Gene Expression
 
-Lab06:
+Lab06: Credit Card Fraud Detection
 
 Lab07:
 
